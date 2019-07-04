@@ -1,0 +1,17 @@
+{
+  "Deepworld:TiledBlock": {
+    "backTiles": [
+      "Deepworld:chromatic0B",
+      "Deepworld:chromatic1B",
+      "Deepworld:chromatic2B",
+      "Deepworld:chromatic3B"
+    ],
+    "frontTiles": [
+      "Deepworld:chromatic0F",
+      "Deepworld:chromatic1F",
+      "Deepworld:chromatic2F",
+      "Deepworld:chromatic3F"
+    ],
+    "size": 2
+  }
+}

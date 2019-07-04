@@ -1,0 +1,17 @@
+{
+  "Deepworld:TiledBlock": {
+    "backTiles": [
+      "Deepworld:brick-blue0B",
+      "Deepworld:brick-blue1B",
+      "Deepworld:brick-blue2B",
+      "Deepworld:brick-blue3B"
+    ],
+    "frontTiles": [
+      "Deepworld:brick-blue0F",
+      "Deepworld:brick-blue1F",
+      "Deepworld:brick-blue2F",
+      "Deepworld:brick-blue3F"
+    ],
+    "size": 2
+  }
+}

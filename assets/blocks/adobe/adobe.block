@@ -1,0 +1,7 @@
+{
+  "basedOn": "Deepworld:TiledBlock",
+  "entity": {
+    "prefab": "Deepworld:adobe"
+  },
+  "tile": "adobe0F"
+}

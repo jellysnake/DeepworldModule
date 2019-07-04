@@ -1,0 +1,41 @@
+{
+  "Deepworld:TiledBlock": {
+    "backTiles": [
+      "Deepworld:bloodstone0B",
+      "Deepworld:bloodstone1B",
+      "Deepworld:bloodstone2B",
+      "Deepworld:bloodstone3B",
+      "Deepworld:bloodstone4B",
+      "Deepworld:bloodstone5B",
+      "Deepworld:bloodstone6B",
+      "Deepworld:bloodstone7B",
+      "Deepworld:bloodstone8B",
+      "Deepworld:bloodstone9B",
+      "Deepworld:bloodstone10B",
+      "Deepworld:bloodstone11B",
+      "Deepworld:bloodstone12B",
+      "Deepworld:bloodstone13B",
+      "Deepworld:bloodstone14B",
+      "Deepworld:bloodstone15B"
+    ],
+    "frontTiles": [
+      "Deepworld:bloodstone0F",
+      "Deepworld:bloodstone1F",
+      "Deepworld:bloodstone2F",
+      "Deepworld:bloodstone3F",
+      "Deepworld:bloodstone4F",
+      "Deepworld:bloodstone5F",
+      "Deepworld:bloodstone6F",
+      "Deepworld:bloodstone7F",
+      "Deepworld:bloodstone8F",
+      "Deepworld:bloodstone9F",
+      "Deepworld:bloodstone10F",
+      "Deepworld:bloodstone11F",
+      "Deepworld:bloodstone12F",
+      "Deepworld:bloodstone13F",
+      "Deepworld:bloodstone14F",
+      "Deepworld:bloodstone15F"
+    ],
+    "size": 4
+  }
+}

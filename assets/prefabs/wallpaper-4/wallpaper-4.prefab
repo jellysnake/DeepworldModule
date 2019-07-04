@@ -1,0 +1,17 @@
+{
+  "Deepworld:TiledBlock": {
+    "backTiles": [
+      "Deepworld:wallpaper-40B",
+      "Deepworld:wallpaper-41B",
+      "Deepworld:wallpaper-42B",
+      "Deepworld:wallpaper-43B"
+    ],
+    "frontTiles": [
+      "Deepworld:wallpaper-40F",
+      "Deepworld:wallpaper-41F",
+      "Deepworld:wallpaper-42F",
+      "Deepworld:wallpaper-43F"
+    ],
+    "size": 2
+  }
+}

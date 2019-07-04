@@ -1,0 +1,7 @@
+{
+  "basedOn": "Deepworld:TiledBlock",
+  "entity": {
+    "prefab": "Deepworld:brick-mixed"
+  },
+  "tile": "brick-mixed0F"
+}

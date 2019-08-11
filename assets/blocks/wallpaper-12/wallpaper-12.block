@@ -1,7 +1,0 @@
-{
-  "basedOn": "Deepworld:TiledBlock",
-  "entity": {
-    "prefab": "Deepworld:wallpaper-12"
-  },
-  "tile": "wallpaper-120F"
-}
